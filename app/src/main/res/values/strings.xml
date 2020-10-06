@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Flickr Photo</string>
+    <string name="unavailable">Unavailable</string>
+    <string name="error_connection">Please check your connection.</string>
+    <string name="search_flickr_photos">Search Flickr photos…</string>
+    <string name="search">Search</string>
+</resources>
